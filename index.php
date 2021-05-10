@@ -11,6 +11,10 @@
 <body>
     <p>Hello World</p>
     <p>Lorem ipsum Kolor si Jamet</p>
+    <ul>
+        <li>Satu</li>
+        <li>Dua</li>
+    </ul>
 </body>
 
 </html>
