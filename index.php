@@ -10,6 +10,7 @@
 
 <body>
     <p>Hello World</p>
+    <p>Lorem ipsum Kolor si Jamet</p>
 </body>
 
 </html>
